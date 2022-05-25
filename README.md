@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ened
+- 👋 Hi, I’m Enes
 - 👀 I’m interested in Music, Robotics and Coding
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
